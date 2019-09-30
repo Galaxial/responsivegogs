@@ -6,3 +6,10 @@
 .pages div{
     padding-bottom: .5em;
 }
+.green{
+    color:#000000 !important;
+}
+
+.ui .left{
+    color:#313131 !important;
+}
